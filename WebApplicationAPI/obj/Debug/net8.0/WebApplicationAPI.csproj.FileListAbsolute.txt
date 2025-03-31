@@ -1,0 +1,340 @@
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\appsettings.json
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\WebApplicationAPI.staticwebassets.endpoints.json
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\WebApplicationAPI.exe
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\WebApplicationAPI.deps.json
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\WebApplicationAPI.runtimeconfig.json
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\WebApplicationAPI.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\WebApplicationAPI.pdb
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.AssemblyInfo.cs
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\scopedcss\bundle\WebApplicationAPI.styles.css
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebApplicationAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebApplicationAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplicationAPI.props
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationAPI.props
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplicationAPI.props
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebAppli.C0E4E92E.Up2Date
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\refint\WebApplicationAPI.dll
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.pdb
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.genruntimeconfig.cache
+D:\Microsoft Visual Studio\C#\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\ref\WebApplicationAPI.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\appsettings.Development.json
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\appsettings.json
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\WebApplicationAPI.exe
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\WebApplicationAPI.deps.json
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\WebApplicationAPI.runtimeconfig.json
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\WebApplicationAPI.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\WebApplicationAPI.pdb
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Azure.Core.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Azure.Identity.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Humanizer.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.ClientModel.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.CodeDom.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Memory.Data.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Text.Json.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.csproj.AssemblyReference.cache
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.AssemblyInfoInputs.cache
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.AssemblyInfo.cs
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.csproj.CoreCompileInputs.cache
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.MvcApplicationPartsAssemblyInfo.cs
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.MvcApplicationPartsAssemblyInfo.cache
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets.build.json
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets.development.json
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebApplicationAPI.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplicationAPI.props
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationAPI.props
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplicationAPI.props
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\staticwebassets.pack.json
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\scopedcss\bundle\WebApplicationAPI.styles.css
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebAppli.C0E4E92E.Up2Date
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\refint\WebApplicationAPI.dll
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.pdb
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\WebApplicationAPI.genruntimeconfig.cache
+A:\Programs\Visual Studio\dot_NET_Projects\API\WebApplicationAPI\WebApplicationAPI\obj\Debug\net8.0\ref\WebApplicationAPI.dll
